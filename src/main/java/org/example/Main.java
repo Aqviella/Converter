@@ -13,8 +13,6 @@ public class Main {
         System.out.println("4. dollar to rouble");
         System.out.println("5. rouble to euro");
         System.out.println("6. rouble to dollar");
-
-// типа добавил исключения
         int choice = scanner.nextInt();
         System.out.println("You chose operation number " + choice);
 
@@ -53,6 +51,5 @@ public class Main {
                 System.out.println("There is no such operation");
                 scanner.close();
         }
-        // жопа
     }
 }
