@@ -14,6 +14,7 @@ public class Main {
         System.out.println("5. rouble to euro");
         System.out.println("6. rouble to dollar");
 
+
         int choice = scanner.nextInt();
         System.out.println("You chose operation number " + choice);
 
