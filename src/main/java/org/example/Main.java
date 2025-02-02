@@ -53,5 +53,6 @@ public class Main {
                 System.out.println("There is no such operation");
                 scanner.close();
         }
+        // жопа
     }
 }
